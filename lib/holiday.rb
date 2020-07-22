@@ -116,9 +116,9 @@ holiday_hash.each do |seasons, holidays|
     if supplies.include?("BBQ")
        bbq_holidays.push(holiday)
      end
-     bbq_holidays
 end
 end
+bbq_holidays
 end
 
 # {
